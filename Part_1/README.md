@@ -1,4 +1,4 @@
-**This is Part 1 ansver.**
+**This is Part 1 answer.**
 
 Files:
 * `Part_1_Notebook.ipynb` contains readable notebook with comments;
